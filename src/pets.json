@@ -1,0 +1,128 @@
+[
+  {
+    "id": 0,
+    "name": "Malvika",
+    "picture": "images/player4.jpg",
+    "age": 20,
+    "Category": "Players",
+    "location": "India"
+  },
+  {
+    "id": 1,
+    "name": "Sunil Chhetri",
+    "picture": "images/Player2.jpg",
+    "age": 37,
+    "Category": "Player",
+    "location": "India"
+  },
+  {
+    "id": 2,
+    "name": "Shikhar Dhawan",
+    "picture": "images/Player1.jpeg",
+    "age": 36,
+    "Category": "Player",
+    "location": "India"
+  },
+  {
+    "id": 3,
+    "name": "Lakshya Sen",
+    "picture": "images/Player5.jpeg",
+    "age": 20,
+    "Category": "Player",
+    "location": "India"
+  },
+  {
+    "id": 4,
+    "name": "Malvika",
+    "picture": "images/player4.jpg",
+    "age": 20,
+    "Category": "Players",
+    "location": "India"
+  },
+  {
+    "id": 5,
+    "name": "Sunil Chhetri",
+    "picture": "images/Player2.jpg",
+    "age": 37,
+    "Category": "Player",
+    "location": "India"
+  },
+  {
+    "id": 6,
+    "name": "Shikhar Dhawan",
+    "picture": "images/Player1.jpeg",
+    "age": 36,
+    "Category": "Player",
+    "location": "India"
+  },
+  {
+    "id": 7,
+    "name": "Lakshya Sen",
+    "picture": "images/Player5.jpeg",
+    "age": 20,
+    "Category": "Player",
+    "location": "India"
+  },{
+    "id": 8,
+    "name": "Malvika",
+    "picture": "images/player4.jpg",
+    "age": 20,
+    "Category": "Players",
+    "location": "India"
+  },
+  {
+    "id": 9,
+    "name": "Sunil Chhetri",
+    "picture": "images/Player2.jpg",
+    "age": 37,
+    "Category": "Player",
+    "location": "India"
+  },
+  {
+    "id": 10,
+    "name": "Shikhar Dhawan",
+    "picture": "images/Player1.jpeg",
+    "age": 36,
+    "Category": "Player",
+    "location": "India"
+  },
+  {
+    "id": 11,
+    "name": "Lakshya Sen",
+    "picture": "images/Player5.jpeg",
+    "age": 20,
+    "Category": "Player",
+    "location": "India"
+  },{
+    "id": 12,
+    "name": "Malvika",
+    "picture": "images/player4.jpg",
+    "age": 20,
+    "Category": "Players",
+    "location": "India"
+  },
+  {
+    "id": 13,
+    "name": "Sunil Chhetri",
+    "picture": "images/Player2.jpg",
+    "age": 37,
+    "Category": "Player",
+    "location": "India"
+  },
+  {
+    "id": 14,
+    "name": "Shikhar Dhawan",
+    "picture": "images/Player1.jpeg",
+    "age": 36,
+    "Category": "Player",
+    "location": "India"
+  },
+  {
+    "id": 15,
+    "name": "Lakshya Sen",
+    "picture": "images/Player5.jpeg",
+    "age": 20,
+    "Category": "Player",
+    "location": "India"
+  }
+]
