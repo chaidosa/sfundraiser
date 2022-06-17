@@ -1,128 +1,130 @@
 [
   {
     "id": 0,
-    "name": "Malvika",
-    "picture": "images/player4.jpg",
+    "name": "Lashay Sen",
+    "picture": "images/Player5.jpeg",
     "age": 20,
-    "Category": "Players",
-    "location": "India"
+    "breed": "Badminton",
+    "location": "Delhi, India"
   },
   {
     "id": 1,
-    "name": "Sunil Chhetri",
-    "picture": "images/Player2.jpg",
-    "age": 37,
-    "Category": "Player",
-    "location": "India"
+    "name": "Manasi Joshi",
+    "picture": "images/manasi.jpg",
+    "age": 33,
+    "breed": "Para-Badminton",
+    "location": "Rajkot, India"
   },
   {
     "id": 2,
-    "name": "Shikhar Dhawan",
-    "picture": "images/Player1.jpeg",
-    "age": 36,
-    "Category": "Player",
-    "location": "India"
+    "name": "Gourav Baliyan",
+    "picture": "images/gourav.png",
+    "age": 20,
+    "breed": "Wrestling",
+    "location": "Muzaffarnagar, India"
   },
   {
     "id": 3,
-    "name": "Lakshya Sen",
-    "picture": "images/Player5.jpeg",
-    "age": 20,
-    "Category": "Player",
+    "name": "Chinglensana singh",
+    "picture": "images/ching.jpg",
+    "age": 26,
+    "breed": "Football",
     "location": "India"
   },
   {
     "id": 4,
-    "name": "Malvika",
-    "picture": "images/player4.jpg",
-    "age": 20,
-    "Category": "Players",
-    "location": "India"
+    "name": "Anirudh Thapa",
+    "picture": "images/anirudh.jpg",
+    "age": 24,
+    "breed": "Football",
+    "location": "Dehradun, India"
   },
   {
     "id": 5,
-    "name": "Sunil Chhetri",
-    "picture": "images/Player2.jpg",
-    "age": 37,
-    "Category": "Player",
-    "location": "India"
+    "name": "Rohit Chamoli",
+    "picture": "images/rohit.jpg",
+    "age": 17,
+    "breed": "Boxing",
+    "location": "Nayagaon Post"
   },
   {
     "id": 6,
-    "name": "Shikhar Dhawan",
-    "picture": "images/Player1.jpeg",
-    "age": 36,
-    "Category": "Player",
-    "location": "India"
+    "name": "Pankaj Mohite",
+    "picture": "images/pankaj.jpg",
+    "age": 22,
+    "breed": "Kabaddi",
+    "location": "Mumbai, India"
   },
   {
     "id": 7,
-    "name": "Lakshya Sen",
-    "picture": "images/Player5.jpeg",
-    "age": 20,
-    "Category": "Player",
-    "location": "India"
-  },{
+    "name": "Mandakini Majhi",
+    "picture": "images/Mandakini.png",
+    "age": 25,
+    "breed": "Kho Kho",
+    "location": "Odisha, India"
+  },
+  {
     "id": 8,
-    "name": "Malvika",
-    "picture": "images/player4.jpg",
-    "age": 20,
-    "Category": "Players",
-    "location": "India"
+    "name": "Praveen Kumar",
+    "picture": "images/pra.webp",
+    "age": 24,
+    "breed": "Kho Kho",
+    "location": "Mysuru, India"
   },
   {
     "id": 9,
-    "name": "Sunil Chhetri",
-    "picture": "images/Player2.jpg",
-    "age": 37,
-    "Category": "Player",
+    "name": "Ravi Bisnoi",
+    "picture": "images/ravi.jpeg",
+    "age": 21,
+    "breed": "Criket",
     "location": "India"
   },
   {
     "id": 10,
-    "name": "Shikhar Dhawan",
-    "picture": "images/Player1.jpeg",
-    "age": 36,
-    "Category": "Player",
-    "location": "India"
+    "name": "Aditi Ashok",
+    "picture": "images/aditi.webp",
+    "age": 24,
+    "breed": "Golf",
+    "location": "Bangalore, India"
   },
   {
     "id": 11,
-    "name": "Lakshya Sen",
-    "picture": "images/Player5.jpeg",
+    "name": "Vipasa Mehra",
+    "picture": "images/vipasa.png",
     "age": 20,
-    "Category": "Player",
+    "breed": "Tennis",
     "location": "India"
-  },{
+  },
+  {
     "id": 12,
-    "name": "Malvika",
-    "picture": "images/player4.jpg",
-    "age": 20,
-    "Category": "Players",
+    "name": "Adil kalyanpur",
+    "picture": "images/Adil.jpg",
+    "age": 22,
+    "breed": "Tennies",
     "location": "India"
   },
   {
     "id": 13,
-    "name": "Sunil Chhetri",
-    "picture": "images/Player2.jpg",
-    "age": 37,
-    "Category": "Player",
-    "location": "India"
+    "name": "Srihari Nataraj",
+    "picture": "images/sri.jpg",
+    "age": 21,
+    "breed": "Swimmer",
+    "location": "Bengaluru, India"
   },
   {
     "id": 14,
-    "name": "Shikhar Dhawan",
-    "picture": "images/Player1.jpeg",
-    "age": 36,
-    "Category": "Player",
-    "location": "India"
+    "name": "Deepa Karmakar",
+    "picture": "images/dipa.jpg",
+    "age": 28,
+    "breed": "Gymnastics",
+    "location": "Agartala, India"
   },
   {
     "id": 15,
-    "name": "Lakshya Sen",
-    "picture": "images/Player5.jpeg",
-    "age": 20,
-    "Category": "Player",
-    "location": "India"
+    "name": "Deepika Kumari",
+    "picture": "images/deep.webp",
+    "age": 28,
+    "breed": "Archery",
+    "location": "Ranchi, India"
   }
 ]
