@@ -4,7 +4,7 @@ Using JUNE people can support their favourite players by donation crypotcurrenci
 
 We are using blockchain Technology for transfering funds securely.
 
-Tech Used: Truffle, solidity, Noejs, HTML,etc.
+Tech Used: Truffle, solidity, Nodejs, HTML,etc.
 
 This project was implemented for India's first HACK FOR SPORT hackathon Jointly cunducted by SPORJO and Hackerearth.
 
