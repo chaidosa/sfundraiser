@@ -8,7 +8,7 @@ Tech Used: Truffle, solidity, Nodejs, HTML,etc.
 
 This project was implemented for India's first HACK FOR SPORT hackathon Jointly cunducted by SPORJO and Hackerearth.
 
-Our Team was among Top 5 out 4500. 
+Our Team was among Top 13 out 4500. 
 
 Team Members: 
 Pritesh Verma, Yash Katta
